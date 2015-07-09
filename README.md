@@ -1,2 +1,3 @@
 # varwww
-/var/www/index.html
+
+Yo B. !
